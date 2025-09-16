@@ -1,7 +1,7 @@
 # Bike-Share-Project
 1. PROJECT TITLE / HEADLINE
-   Project Title
-   1-2 líneas
+Project Title
+1-2 líneas
 
 2. SHORT DESCRIPTIOON / PURPOSE
    Lo que hace el dashboard
