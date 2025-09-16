@@ -33,5 +33,5 @@ Project Title
 
 6. SCREENSHOTS / DEMOS
    Show how the dashboard looks like
-   https://github.com/Belenmicov/Bike-Share-Project/blob/main/Screenshot%20Dashboard%20Bike%20Share%20Project.png 
+![Dashboard Preview](https://github.com/Belenmicov/Bike-Share-Project/blob/main/Screenshot%20Dashboard%20Bike%20Share%20Project.png)
    
